@@ -4,5 +4,7 @@ The unedited code that was then used to create the Desktop layout for https://al
 I wanted to change it up and create a website of sorts with different components for each page. None of the pages are currently checked
 for cross browser compatability and were made to work for Chrome. Some not all have been optimized for mobile. 
 
-Members
-  This page is full pictures and hover to see information. 
+Members: This page is full pictures and hover to see information. 
+
+Discography: Currently in progress, split into two catagories. Korean & Japanese. Hover to view basic info, click to open modal and reveal
+tracklist.
